@@ -24,17 +24,6 @@
   <a href="https://github.com/andhikagg"><img src="https://count.getloli.com/get/@andhikagg?theme=rule34" alt="visitor"></a>
 </p>
 
-<div align="center">
-  <h2>💫 Connect With Me</h2>
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
-
-
-  
-
-<a href="https://wa.me/918972767390"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@sayan-mete027"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@sayan-mete027" /><br>
 
   <br>
   <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=kajju027&data=followers,repositories,stars,commits&theme=nautical"/>
