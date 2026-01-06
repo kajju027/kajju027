@@ -45,14 +45,14 @@
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&borderRadius=5&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&gap=13&line1=node.js,node.js,339933;express,express,000000;javascript,javascript,F7DF1E;&line2=mongodb,mongodb,47A248;mysql,mysql,4479A1;git,git,F05032;" alt="Tech Stack" />
 </div>
 
-# 📊 GitHub Stats:
-
+<div align="center">
+  
   ![](https://github-readme-stats.vercel.app/api?username=kajju027&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
             ![](https://nirzak-streak-stats.vercel.app/?user=kajju027&theme=github_dark&hide_border=false)<br/>
             ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kajju027&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2> GUTHUB STATS 🔥 </h2>
   <img src="https://github-stats-alpha.vercel.app/api?username=kajju027&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajju027&theme=tokyonight" width="100%">
