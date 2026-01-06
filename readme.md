@@ -24,13 +24,8 @@
   <a href="https://github.com/kajju027"><img src="https://count.getloli.com/get/@kajju027?theme=rule34" alt="visitor"></a>
 </p>
 
-
-  <br>
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=kajju027&data=followers,repositories,stars,commits&theme=nautical"/>
-</div>
-
 <div align="center">
-  <h2>🛠️ Languages & Tools</h2>
+  <h2>🛠️ Languages & Skills</h2>
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -64,7 +59,7 @@
 
 
 <div align="center">
-  <h2>📈 Contribution Graph</h2>
+  <h2> GITHUB GRAPH 🧿</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajju027&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
