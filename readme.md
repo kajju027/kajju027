@@ -1,74 +1,92 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Sayan%20OAI%20Technologies&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20API%20Developer%20|%20Software%20Enginner&descAlignY=55&descSize=15"/>
-</div>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/069a83dc2e7219fc7e1ea0aa22a8e6a63176c6781b2cfaa04f0ef0d8de8c982d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3833656166312c3130303a363361346666266865696768743d32303026746578743d536179616e2532304f4149253230546563686e6f6c6f6769657326666f6e7453697a653d343026666f6e74436f6c6f723d66666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d343026646573633d46756c6c253230537461636b253230446576656c6f7065722532307c253230415049253230446576656c6f7065722532307c253230536f667477617265253230456e67696e6e65722664657363416c69676e593d3535266465736353697a653d3135" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=30&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sayan+OAI;Welcome+to+My+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=30&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sayan;Welcome+to+My+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
+---
 
+## 👋 𝗛𝗶, 𝗜’𝗺 𝗦𝗔𝗬𝗔𝗡
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=kajju027&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
-</div>
+🚀 **𝗙𝗼𝘂𝗻𝗱𝗲𝗿 𝗼𝗳 𝗖𝗡 𝗣𝗢𝗜𝗡𝗧**  
+🏏 **𝗟𝗶𝘃𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 • 𝗠𝟯𝗨𝟴 • 𝗢𝗧𝗧 • 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻**  
+📱 **𝗠𝗼𝗯𝗶𝗹𝗲-𝗙𝗶𝗿𝘀𝘁 𝗗𝗲𝘃 ( 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝘂𝗰𝘁𝗶𝗼𝗻𝘀 + 𝗧𝗲𝗿𝗠𝘂𝘅 + 𝗛𝗲𝗿𝗼𝗸𝘂 + 𝗠𝘂𝗹𝘁𝗶 𝗗𝗲𝘃𝗶𝗰𝗲 𝗕𝗢𝗧 )**
+
+<img src="https://user-images.githubusercontent.com/74038190/212750917-6d25e3c4-3c4b-4b7d-8c58-8b8b9e9c6eaa.gif" width="100%" />
+
+## 🔥 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗼
+- 🏏 **𝗟𝗶𝘃𝗲 𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀**
+- ⚙️ **𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝘂𝗰𝘁𝗶𝗼𝗻𝘀 • 𝗧𝗲𝗿𝗠𝘂𝘅 •  𝗛𝗲𝗿𝗼𝗸𝘂 • 𝗠𝘂𝗹𝘁𝗶 𝗗𝗲𝘃𝗶𝗰𝗲 𝗕𝗢𝗧**
+- 📦 **𝗝𝗦𝗢𝗡 𝗔𝗣𝗜𝘀 & 𝗦𝘁𝗮𝘁𝗶𝗰 𝗢𝗧𝗧 𝗦𝗶𝘁𝗲𝘀**
+- 🤖 **𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 & 𝗡𝟴𝗡 𝗕𝗼𝘁𝘀 (𝗙𝗮𝗻𝗖𝗼𝗱𝗲, 𝗪𝗣𝗟, 𝗜𝗣𝗟 , 𝗪𝗖 , 𝗙𝗜𝗙𝗔 𝗪𝗖)**
+
+<img src="https://user-images.githubusercontent.com/74038190/212750917-6d25e3c4-3c4b-4b7d-8c58-8b8b9e9c6eaa.gif" width="100%" />
+
+---
+
+## 🧠 𝗧𝗲𝗰𝗵 & 𝗦𝗸𝗶𝗹𝗹𝘀
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,js,nodejs,heroku,html,htmx,css,linux,git,github,windows&theme=dark" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750917-6d25e3c4-3c4b-4b7d-8c58-8b8b9e9c6eaa.gif" width="100%" />
+
+---
+
+## 🌐 𝗠𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+- 🔴 **𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗬 ∞ 🙃** – 𝗟𝗶𝘃𝗲 𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗛𝘂𝗯  
+- 🤖 **𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 & 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗕𝗼𝘁𝘀**  
+- 🎥 **𝗠𝟯𝗨𝟴 / 𝗛𝗟𝗦 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻**
+
+<img src="https://user-images.githubusercontent.com/74038190/212750917-6d25e3c4-3c4b-4b7d-8c58-8b8b9e9c6eaa.gif" width="100%" />
+
+---
+
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 (2026 WORKING)
 
 <p align="center">
-<a href="https://sayan-tech.onrender.com"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95️-orange?style=for-the-badge" /></a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kajju027&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<!-- ========== GITHUB STREAK START ========== -->
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=kajju027&theme=burnt-neon&border_radius=16.8&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" />
+  </a>
+</p>
+
+<!-- ========== GITHUB STREAK END ========== -->
+
+## 🧠 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗨𝘀𝗮𝗴𝗲
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kajju027&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kajju027"><img src="https://count.getloli.com/get/@kajju027?theme=rule34" alt="visitor"></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajju027&theme=radical" />
 </p>
 
-<div align="center">
-  <h2>🛠️ Languages & Skills</h2>
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajju027&theme=react-dark&hide_border=true" />
+</p>
 
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=kajju027&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-            ![](https://nirzak-streak-stats.vercel.app/?user=kajju027&theme=github_dark&hide_border=false)<br/>
-            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kajju027&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<div align="center">
-  <h2> GUTHUB STATS 🔥 </h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=kajju027&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajju027&theme=tokyonight" width="100%">
-  
-  <p align="center">
-</div>
+## 🐍 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗦𝗻𝗮𝗸𝗲
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<div align="center">
-
-
-<div align="center">
-  <h2> GITHUB GRAPH 🧿</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajju027&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
-</div>
-
-
-
-<div align="center">
-
-  
-
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
-  
+##  👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
+<p align="center">
+  <img src="https://count.getloli.com/get/@kajju027?theme=rule34" />
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -76,4 +94,7 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071b4f,100:00013a&height=120&section=footer" />
+</p> 
