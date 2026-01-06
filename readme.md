@@ -17,11 +17,11 @@
 </div>
 
 <p align="center">
-<a href="https://sayan-mete.onrender.com"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95️-orange?style=for-the-badge" /></a>
+<a href="https://sayan-tech.onrender.com"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95️-orange?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/andhikagg"><img src="https://count.getloli.com/get/@andhikagg?theme=rule34" alt="visitor"></a>
+  <a href="https://github.com/kajju027"><img src="https://count.getloli.com/get/@kajju027?theme=rule34" alt="visitor"></a>
 </p>
 
 
