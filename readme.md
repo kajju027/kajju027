@@ -58,15 +58,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajju027&theme=tokyonight" width="100%">
   
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kajju027&theme=tokyonight" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kajju027&theme=tokyonight" width="45%">
-  </p>
 </div>
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=kajju027&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
+
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
