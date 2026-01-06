@@ -37,9 +37,6 @@
   ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&borderRadius=5&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&gap=13&line1=node.js,node.js,339933;express,express,000000;javascript,javascript,F7DF1E;&line2=mongodb,mongodb,47A248;mysql,mysql,4479A1;git,git,F05032;" alt=" " />
-</div>
-
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=kajju027&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
