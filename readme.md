@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=kajju027&theme=burnt-neon&border_radius=16.8&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=kajju027&theme=microsoft-dark&border_radius=8.0&card_width=500&card_height=180" />
   </a>
 </p>
 
